@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/santude1997" target="blank"><img src="https://img.shields.io/twitter/follow/santude1997?logo=twitter&style=for-the-badge" alt="santude1997" /></a> </p>
 
-- 💬 Ask me about **React, Angular, Node, Express, MongoDB**
+- 💬 Ask me about **React, Node, Express, MongoDB**
 
 - 📫 How to reach me **santude1997@outlook.com**
 
